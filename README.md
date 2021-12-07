@@ -13,7 +13,7 @@
 
 * I'm a self taught philomath, I try my best to learn every skill thats interesting to me , programming and computer skills might actually be the most impressive have ever learnt.
 
-[![mxbhaee's github stats](https://github-readme-stats.vercel.app/api?username=mxbhaee&count_private=true&include_all_commits=true&theme=radical)](https://google.com)||[![mxbhaee's github stats](https://github-readme-stats.vercel.app/api?username=mxbhaee&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![mxbhaee's github stats](https://github-readme-stats.vercel.app/api?username=mxbhaee&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 </br>
 
 ## Connect with me:
