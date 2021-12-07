@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**mxbhaee/mxbhaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://mxbhaee.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
