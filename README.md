@@ -9,10 +9,7 @@
 
 ##Introduction
 
-* 💼 Currently working at [Frichti](https://www.frichti.co) <br/>
-* 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
-* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
-* 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
+*I'm a self taught philomath, I try my best to learn every skill thats interesting to me , programming and computer skills might actually be the most impressive have ever learnt.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mxbhaee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </br>
