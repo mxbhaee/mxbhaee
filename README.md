@@ -11,10 +11,8 @@
 
 * I'm a self taught philomath, I try my best to learn every skill thats interesting to me , programming and computer skills might actually be the most impressive have ever learnt.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mxbhaee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</br>
-
 [![mxbhaee's github stats](https://github-readme-stats.vercel.app/api?username=mxbhaee&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+</br>
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
