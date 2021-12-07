@@ -2,7 +2,8 @@
 </br>
 
 <bold>mxbhaee founder/ceo of bhaee corp</bold>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+</br>
+![twitter](https://visitor-badge.glitch.me/badge?page_id=page.id)||![playstore](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 ##Introduction
