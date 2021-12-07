@@ -11,4 +11,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mxbhaee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </br>
+## My skills
+
+<p align="center">
+  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+</p>
 
