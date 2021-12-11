@@ -3,7 +3,7 @@
 </br>
 
 ``` 
-Welcome am mxbhaee, a self taught software developer mostly concetrated on beauty and user interface "UI design".
+Welcome am mxbhaee, a self taught software developer mostly concentrated on beauty and user interface "UI design".
 
 Am also the Founder | Ceo of a startup tech company named bhaee corp. 
 
