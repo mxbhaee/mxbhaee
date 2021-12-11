@@ -8,7 +8,7 @@ Welcome am mxbhaee, a self taught software developer mostly concentrated on beau
 Am also the Founder | Ceo of a startup tech company named bhaee corp. 
 
 ```
-bhaee corp is an tech based company that specializes in software development, innovations of tech related products and services which include fields in philosophy , the internet of things , medical sector , social sector ( fashion, intertainment and design ), computer and mobile repairs , online elearning and transport sector . 
+bhaee corp is an tech based company that specializes in software development, innovations of tech related products and services which include fields in philosophy , the internet of things , medical sector , social sector ( fashion, entertainment and design ), computer and mobile repairs , online elearning and transport sector . 
 
 ``` 
  private fun proccessing{ isSuccessfull ->
