@@ -1,5 +1,3 @@
-## ``` failure is success because without failure you wouldn't be able to determine if your right or wrong its the non of reality ```
-
 </br>
 
 ``` 
@@ -22,11 +20,6 @@ bhaee corp is a tech based company that specializes in software development, inn
  }
 
 ```
-
-# Hamonie Music Player 🎵
-
-<img src="https://raw.githubusercontent.com/mxbhaee/Hamonie/master/hamonie.jpg" width="1080" height="400">
-
 </br>
 
 ## Welcome 
@@ -37,26 +30,6 @@ welcome to the bhaee corp's github repository were I showcase and share source c
 
 ```
 
-## Future goals
-```
-. developing 100 android applications
-. developing a websites 
-        -- music download website
-        -- cloud storage 
-        -- website hosting services 
-        -- movie download and streaming services 
-        -- E-Learning system 
-        -- Software distribution system
-. An operating system for mobile and pc
-. Cloud storage 
-. starting on the medical innovation
-. space industry ( rockets and travel )
-. science and philosphy 
-. social media and content creation
-
-etc
-
-```
 </br>
 </br>
 <p align="left"> 
