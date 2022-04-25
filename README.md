@@ -6,6 +6,16 @@ bhaee is a start-up multinational technology company that structurally focuses o
 
 </p>
 
+<p>
+  
+  We design and build your website and software’s so that it is functional and user-friendly but at the same time attractive. Moreover, we do personal fine turning to your product and make sure that is eye-catching and easy to use. Our aim is to bring across your message and identity in the most creative way.
+  
+</p>
+
+<p>
+  We work in partnership with many companies and brands to deliver the best product of your preferences across all multinational platforms.
+</p>
+
 
 </br>
 </br>
