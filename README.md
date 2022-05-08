@@ -23,6 +23,20 @@ bhaee is a start-up multinational technology company that structurally focuses o
 <img src="https://komarev.com/ghpvc/?username=mxbhaee&label=Views&color=blue&style=plastic" alt="digvijay173" />
 </p>
 
+```
+
+WITH ALL RESPECT AND CREDIT FROM THE OPENSOURCE COMMUNITY BELOW FOR THERE OPENSOURCE GENEROSITY
+
+```
+<br/>
+<p>
+  Osten  Github : https://github.com/LagradOst
+ 
+</p>  
+<p>
+   Coding cafe  Youtube channel : Coding Cafe
+</p>
+
 [![mxbhaee's github stats](https://github-readme-stats.vercel.app/api?username=mxbhaee&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 </br>
 
